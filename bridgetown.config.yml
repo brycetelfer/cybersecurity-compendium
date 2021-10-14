@@ -16,6 +16,7 @@
 #
 
 url: "https://brycetelfer.github.io/cybersecurity-compendium/" # the base hostname & protocol for your site, e.g. https://example.com
+base_path: "cybersecurity-compendium"
 
 permalink: pretty
 
