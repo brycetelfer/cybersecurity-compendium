@@ -15,7 +15,8 @@
 # https://learnxinyminutes.com/docs/yaml/
 #
 
-url: "https://brycetelfer.github.io/cybersecurity-compendium/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://raw.githubusercontent.com/brycetelfer/cybersecurity-compendium/gh-pages/"
+#url: "https://brycetelfer.github.io/cybersecurity-compendium/" # the base hostname & protocol for your site, e.g. https://example.com
 #base_path: "cybersecurity-compendium"
 
 permalink: pretty
